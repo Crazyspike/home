@@ -1,8 +1,7 @@
 -
   name: 'Retina-like Visual Image Reconstruction via Spiking Neural Model'
   description: >
-    In this paper, we have proposed a novel three-layer spiking neural model to reconstruct visual images for spike camera. We comprehensively discuss the spike distribution and
-construct a probability model to describe it. Additionally, a dynamic neuron extraction model is proposed to distinguish the dynamic and static neurons. A combination of biologically plausible mechanisms in introduced to process the continuous-time spikes. Finally, the visual image can be reconstructed according to the state of the neuron and firing threshold.
-  image: /img/phd-thesis.png
+    In this paper, we have proposed a novel three-layer spiking neural model to reconstruct visual images for spike camera. We comprehensively discuss the spike distribution and construct a probability model to describe it. Additionally, a dynamic neuron extraction model is proposed to distinguish the dynamic and static neurons. A combination of biologically plausible mechanisms in introduced to process the continuous-time spikes. Finally, the visual image can be reconstructed according to the state of the neuron and firing threshold.
+  image: /img/2783-teaser.gif
   url: https://crazyspike.github.io/blog/2020/07/22/Retina-like-Visual-Image-Reconstruction-via-Spiking-Neural-Model.html
 -
