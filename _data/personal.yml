@@ -1,44 +1,40 @@
-name: Ian Li
+name: Lin Zhu
 
-label: UI Designer
+label: Ph.D. Candidate
 
 picture: /img/profile-picture.jpg
 
-email: ianli@ianli.com
+email: linzhu@pku.edu.cn
 
 phone: 
 
-department: Android UX
+department: School of Electronics Engineering and Computer Science
 
-institution: Google
+institution: Peking University
 
 mailing_address: >
-  1600 Amphitheatre Parkway
-  Mountain View, CA 94043
+  No.5 Yiheyuan Road Haidian District
+  Beijing, P.R.China 100871|
 
 profiles:
   - 
     network: Google Scholar
     username:
-    url: http://scholar.google.com/citations?user=JS7sVyQAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=32d6xfEAAAAJ&hl=en
   -
     network: LinkedIn
     username:
-    url: https://www.linkedin.com/pub/ian-li/1/681/8b0
+    url: 
   -
     network: Twitter
     username: ianli
-    url: https://twitter.com/ianli/
+    url: 
 
 intro:
   title: Hello!
   body: >
-    I'm a UI designer at Google.
-    Before Google, I was a Ph.D. student in the 
-    [Human-Computer Interaction Institute](http://hcii.cs.cmu.edu/) at Carnegie Mellon University.
-    My advisors were 
-    [Anind Dey](http://www.cs.cmu.edu/~anind/) and 
-    [Jodi Forlizzi](http://goodgestreet.com/). 
-    I worked on designed and developed 
-    [personal informatics tools](http://www.personalinformatics.org/) that help people better understand their own behavior.
-    [My dissertation](http://ianli.com/thesis/) explored how contextual information can improve self-knowledge in personal informatics systems.
+    I'm a Ph.D. student in the 
+    [Institute of Digital Media (NELVT)](https://pkuml.org//) at Peking University.
+    My advisors are Yonghong Tian. 
+    My research is neuromorphic vision, spiking neural network and low-level vision. 
+    Our team develop a neuromorphic vision sensor called spike camera. My work explored how to compress the spike data and reconstruct texture images from the spike data. 
