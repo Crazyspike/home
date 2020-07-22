@@ -1,66 +1,49 @@
 -
   type: journal
-  title: Using context to reveal factors that affect physical activity
-  authors: Ian Li, Anind K. Dey, Jodi Forlizzi
-  journal: ACM Transactions on Computer Human Interaction
-  volume: 19 
+  title: L1/2 Norm and Spatial Continuity Regularized Low-Rank Approximation for Moving Object Detection in Dynamic Background
+  authors: L Zhu, Y Hao, Y Song
+  journal: IEEE Signal Processing Letters 25
+  volume: 25 
   issue: 1
-  year: 2012
-  month: March
-  pdf: http://www.personalinformatics.org/docs/papers/2012-ianli-tochi-physical-activity.pdf
-  url: http://dl.acm.org/citation.cfm?id=2147783.2147790
--
-  type: dissertation
-  title: "Personal Informatics and Context: Using Context to Reveal Factors that Affect Behavior"
-  authors: Ian Li
-  year: 2011
-  publisher: Carnegie Mellon University
-  pdf: http://ianli.com/thesis/docs/dissertation.pdf
-  url: http://dl.acm.org/citation.cfm?id=2520311
+  year: 2018
+  month: January
+  pdf: https://ieeexplore.ieee.org/abstract/document/8093628/
+  url: https://ieeexplore.ieee.org/abstract/document/8093628/
 -
   type: conference
-  title: "Understanding My Data, Myself: Supporting Self-Reflection with Ubicomp Technologies"
-  authors: Ian Li, Anind Dey, Jodi Forlizzi
-  conference: Proceedings of UbiComp 2011
-  year: 2011
-  pages: 405-414
-  pdf: http://ianli.com/publications/2011-ianli-ubicomp-understanding-my-data.pdf
-  url: http://dl.acm.org/citation.cfm?id=2030166
+  title: An efficient coding method for spike camera using inter-spike intervals
+  authors: S Dong, L Zhu, D Xu, Y Tian, T Huang
+  conference: Data Compression Conference (DCC) 2019
+  year: 2019
+  pages: 1-1
+  pdf: https://arxiv.org/ftp/arxiv/papers/1912/1912.09669.pdf
+  url: https://ieeexplore.ieee.org/abstract/document/8712772/
 -
   type: conference
-  title: A stage-based model of personal informatics systems
-  authors: Ian Li, Anind Dey, Jodi Forlizzi
-  year: 2010
-  conference: Proceedings of CHI 2010
-  pages: 557-566
-  pdf: http://ianli.com/publications/2010-ianli-chi-stage-based-model.pdf
-  url: http://dl.acm.org/citation.cfm?id=1753326.1753409
+  title: A retina-inspired sampling method for visual texture reconstruction
+  authors: L Zhu, S Dong, T Huang, Y Tian
+  year: 2019
+  conference: IEEE International Conference on Multimedia and Expo (ICME) 2019
+  pages: 1432-1437
+  pdf: https://ieeexplore.ieee.org/abstract/document/8784924
+  url: https://ieeexplore.ieee.org/abstract/document/8784924
 - 
   type: conference
-  title: "Here's What I Did: Sharing and Reusing Web Activity with ActionShot"
-  authors: Ian Li, Jeffrey Nichols, Tessa Lau, Clemens Drews, Allen Cypher
-  conference: Proceedings of CHI 2010
-  year: 2010
-  pages: 723-732
-  pdf: http://ianli.com/publications/2010-ianli-chi-actionshot.pdf
-  url: http://dl.acm.org/citation.cfm?id=1753326.1753432
+  title: Retina-Like Visual Image Reconstruction via Spiking Neural Model
+  authors: L Zhu, S Dong, J Li, T Huang, Y Tian
+  conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020
+  year: 2020
+  pages: 1438-1446
+  pdf: https://openaccess.thecvf.com/content_CVPR_2020/html/Zhu_Retina-Like_Visual_Image_Reconstruction_via_Spiking_Neural_Model_CVPR_2020_paper.html
+  url: https://openaccess.thecvf.com/content_CVPR_2020/html/Zhu_Retina-Like_Visual_Image_Reconstruction_via_Spiking_Neural_Model_CVPR_2020_paper.html
 -
-  type: magazine
-  title: "Grafitter: leveraging social media for self reflection"
-  authors: Ian Li, Anind Dey, Jodi Forlizzi
-  magazine: Crossroads
-  volume: 16
-  issue: 2
-  year: 2009
-  pages: 12-13
-  url: http://dl.acm.org/citation.cfm?id=1665997.1666001
-  pdf: http://ianli.com/publications/2009-ianli-crossroads-grafitter.pdf
--
-  type: conference
-  title: Using Visualizations to Increase Compliance in Experience Sampling
-  authors: Gary Hsieh, Ian Li, Anind Dey, Jodi Forlizzi, Scott Hudson
-  conference: Proceedings of UbiComp 2008
-  year: 2008
-  pages: 164-167
-  pdf: http://ianli.com/publications/2008-hsieh-ubicomp-using-visualizations.pdf
-  url: http://portal.acm.org/citation.cfm?id=1409635.1409657
+  type: journal
+  title: Motion-aware Structured Matrix Factorization for Foreground Detection in Complex Scenes
+  authors: L Zhu, X Jiang, J Li, Y Hao, Y Tian
+  journal: ACM Transactions on Multimedia Computing, Communications, and Applications
+  volume: Accepted
+  issue: 
+  year: 2020
+  month: January
+  pdf: 
+  url: 
