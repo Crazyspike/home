@@ -2,4 +2,4 @@
 markdown: kramdown
 
 # http://jekyllrb.com/docs/github-pages/#project-page-url-structure
-baseurl: /crazyspike.github.io/
+baseurl: https://crazyspike.github.io/home/
