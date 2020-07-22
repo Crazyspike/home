@@ -34,8 +34,8 @@ intro:
   title: Hello!
   body: >
     I'm a Ph.D. student in the 
-    [Institute of Digital Media (NELVT)](https://pkuml.org//) at Peking University.
+    [Institute of Digital Media (NELVT)](https://pkuml.org//) at [Peking University](http://english.pku.edu.cn//).
     My advisors are Yonghong Tian. 
-    My research is neuromorphic vision, spiking neural network and low-level vision. 
+    My research interest is neuromorphic vision, spiking neural network and low-level vision. 
     Our team develop a neuromorphic vision sensor called spike camera. 
     Our work explored how to reconstruct texture images from the spike data (generated from the spike camera) and compress the spike data.
