@@ -154,14 +154,12 @@ It is threatened by habitat loss.
                 {{ publication.journal }},
                 {{ publication.volume }},
                 {{ publication.issue }},
-                {{ publication.pages }},
-                {{ publication.year }}
+                {{ publication.pages }}
               {% when 'magazine' %}
                 {{ publication.magazine }},
                 {{ publication.volume }},
                 {{ publication.issue }},
-                {{ publication.pages }},
-                {{ publication.year }}
+                {{ publication.pages }}
             {% endcase %}
           </p>
         {% endfor %}
