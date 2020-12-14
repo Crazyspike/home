@@ -1,4 +1,4 @@
--
+
   type: journal
   title: L1/2 Norm and Spatial Continuity Regularized Low-Rank Approximation for Moving Object Detection in Dynamic Background
   authors: L Zhu, Y Hao, Y Song
@@ -10,7 +10,7 @@
   month: January
   pdf: https://ieeexplore.ieee.org/abstract/document/8093628/
   url: https://ieeexplore.ieee.org/abstract/document/8093628/
--
+
   type: conference
   title: An efficient coding method for spike camera using inter-spike intervals
   authors: S Dong, L Zhu, D Xu, Y Tian, T Huang
@@ -19,7 +19,7 @@
   pages: 1-1
   pdf: https://arxiv.org/ftp/arxiv/papers/1912/1912.09669.pdf
   url: https://ieeexplore.ieee.org/abstract/document/8712772/
--
+
   type: conference
   title: A retina-inspired sampling method for visual texture reconstruction
   authors: L Zhu, S Dong, T Huang, Y Tian
@@ -28,7 +28,7 @@
   pages: 1432-1437
   pdf: https://ieeexplore.ieee.org/abstract/document/8784924
   url: https://ieeexplore.ieee.org/abstract/document/8784924
-- 
+
   type: conference
   title: Retina-Like Visual Image Reconstruction via Spiking Neural Model
   authors: L Zhu, S Dong, J Li, T Huang, Y Tian
@@ -37,7 +37,7 @@
   pages: 1438-1446
   pdf: https://openaccess.thecvf.com/content_CVPR_2020/html/Zhu_Retina-Like_Visual_Image_Reconstruction_via_Spiking_Neural_Model_CVPR_2020_paper.html
   url: https://openaccess.thecvf.com/content_CVPR_2020/html/Zhu_Retina-Like_Visual_Image_Reconstruction_via_Spiking_Neural_Model_CVPR_2020_paper.html
--
+
   type: journal
   title: Motion-aware Structured Matrix Factorization for Foreground Detection in Complex Scenes
   authors: L Zhu, X Jiang, J Li, Y Hao, Y Tian
@@ -48,7 +48,7 @@
   month: January
   pdf: 
   url: 
- -
+ 
   type: journal
   title: Hybrid Coding of Spatiotemporal Spike Data for a Bio-inspired Camera
   authors: L Zhu, S Dong, T Huang, Y Tian
